@@ -55,7 +55,7 @@ export const trendingAnime: AnimeType[] = [
   {
     id: 5,
     title: "One Piece",
-    coverImage: "https://images.pexels.com/photos/5490778/pexels-photo-5490778.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    coverImage: "https://cdn1-production-images-kly.akamaized.net/nwXgiW_hn00q7H0SKCDtFLH7RBw=/800x1066/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4722929/original/001706500_1705906267-one_piece_06.jpg",
     type: "TV",
     year: 2023,
     rating: 4.8,
@@ -64,7 +64,7 @@ export const trendingAnime: AnimeType[] = [
   {
     id: 6,
     title: "Chainsaw Man",
-    coverImage: "https://images.pexels.com/photos/11791142/pexels-photo-11791142.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    coverImage: "https://upload.wikimedia.org/wikipedia/id/thumb/4/42/Chainsaw_Man_Vol_1.jpg/250px-Chainsaw_Man_Vol_1.jpg",
     type: "TV",
     year: 2022,
     rating: 4.9,
@@ -73,7 +73,7 @@ export const trendingAnime: AnimeType[] = [
   {
     id: 7,
     title: "Spy X Family",
-    coverImage: "https://images.pexels.com/photos/14827303/pexels-photo-14827303.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    coverImage: "https://i0.wp.com/www.rukita.co/stories/wp-content/uploads/2023/10/spy-x-family-sumber-comicbook-com.webp?resize=600%2C1000&ssl=1",
     type: "TV",
     year: 2023,
     rating: 4.7,
