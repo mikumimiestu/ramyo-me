@@ -72,7 +72,7 @@ export const trendingAnime: AnimeType[] = [
   },
   {
     id: 7,
-    title: "Spy X Family",
+    title: "Spy X Family S2",
     coverImage: "https://i0.wp.com/www.rukita.co/stories/wp-content/uploads/2023/10/spy-x-family-sumber-comicbook-com.webp?resize=600%2C1000&ssl=1",
     type: "TV",
     year: 2023,
