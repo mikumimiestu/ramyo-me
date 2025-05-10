@@ -82,7 +82,7 @@ export const trendingAnime: AnimeType[] = [
   {
     id: 8,
     title: "Blue Lock",
-    coverImage: "https://images.pexels.com/photos/5490835/pexels-photo-5490835.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    coverImage: "https://pinoygamer.ph/attachments/blue-lock-pwc-png.19771/",
     type: "TV",
     year: 2023,
     rating: 4.6,
