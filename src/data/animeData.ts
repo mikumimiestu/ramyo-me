@@ -4,7 +4,7 @@ export const featuredAnime: AnimeType[] = [
   {
     id: 1,
     title: "Demon Slayer",
-    coverImage: "https://images.pexels.com/photos/6802983/pexels-photo-6802983.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    coverImage: "https://cdn.oneesports.id/cdn-data/sites/2/2024/02/DemonSlayer_Season3_Finale_Nezuko_Tanjiro-1024x576-1.jpg",
     type: "TV",
     year: 2023,
     rating: 4.9,
@@ -16,7 +16,7 @@ export const featuredAnime: AnimeType[] = [
   {
     id: 2,
     title: "Attack on Titan",
-    coverImage: "https://images.pexels.com/photos/6802656/pexels-photo-6802656.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    coverImage: "https://thecinemaholic.com/wp-content/uploads/2021/02/Screenshotter-HuluWatch-2229.jpg?resize=768",
     type: "TV",
     year: 2022,
     rating: 4.8,
@@ -28,7 +28,7 @@ export const featuredAnime: AnimeType[] = [
   {
     id: 3,
     title: "My Hero Academia",
-    coverImage: "https://images.pexels.com/photos/7130469/pexels-photo-7130469.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    coverImage: "https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/10/Mirko-in-My-Hero-Academia-2.jpg",
     type: "TV",
     year: 2023,
     rating: 4.7,
@@ -40,7 +40,7 @@ export const featuredAnime: AnimeType[] = [
   {
     id: 4,
     title: "Jujutsu Kaisen",
-    coverImage: "https://images.pexels.com/photos/7130488/pexels-photo-7130488.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    coverImage: "https://readysteadycut.com/wp-content/uploads/2023/07/jujutsu-kaisen-season-2-64a6dff90b3e8-1-1024x576.jpg",
     type: "TV",
     year: 2023,
     rating: 4.9,
@@ -64,7 +64,7 @@ export const trendingAnime: AnimeType[] = [
   {
     id: 6,
     title: "Chainsaw Man",
-    coverImage: "https://upload.wikimedia.org/wikipedia/id/thumb/4/42/Chainsaw_Man_Vol_1.jpg/250px-Chainsaw_Man_Vol_1.jpg",
+    coverImage: "https://static1.srcdn.com/wordpress/wp-content/uploads/2024/09/chainsaw-man-2022-anime-poster.jpg",
     type: "TV",
     year: 2022,
     rating: 4.9,
@@ -82,7 +82,7 @@ export const trendingAnime: AnimeType[] = [
   {
     id: 8,
     title: "Blue Lock",
-    coverImage: "https://pinoygamer.ph/attachments/blue-lock-pwc-png.19771/",
+    coverImage: "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p23128919_b_v9_aa.jpg",
     type: "TV",
     year: 2023,
     rating: 4.6,
@@ -91,7 +91,7 @@ export const trendingAnime: AnimeType[] = [
   {
     id: 9,
     title: "Vinland Saga",
-    coverImage: "https://images.pexels.com/photos/5490818/pexels-photo-5490818.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    coverImage: "https://th.bing.com/th/id/OIP.NxS5bry_-Hf8HoshcmxhEAHaIi?rs=1&pid=ImgDetMain",
     type: "TV",
     year: 2023,
     rating: 4.8,
@@ -103,7 +103,7 @@ export const newReleases: AnimeType[] = [
   {
     id: 10,
     title: "Solo Leveling",
-    coverImage: "https://images.pexels.com/photos/5490279/pexels-photo-5490279.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    coverImage: "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/5e7f533c3b4f46244ca228af62e83dfa.jpe",
     type: "TV",
     year: 2024,
     rating: 4.9,
@@ -112,7 +112,7 @@ export const newReleases: AnimeType[] = [
   {
     id: 11,
     title: "Kaiju No. 8",
-    coverImage: "https://images.pexels.com/photos/7320105/pexels-photo-7320105.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    coverImage: "https://awsimages.detik.net.id/community/media/visual/2024/04/18/anime-kaiju-no8.jpeg?w=700&q=90",
     type: "TV",
     year: 2024,
     rating: 4.8,
@@ -121,7 +121,7 @@ export const newReleases: AnimeType[] = [
   {
     id: 12,
     title: "Oshi no Ko",
-    coverImage: "https://images.pexels.com/photos/11791140/pexels-photo-11791140.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    coverImage: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/10/oshi-no-ko-anime.jpg",
     type: "TV",
     year: 2024,
     rating: 4.7,
@@ -130,7 +130,7 @@ export const newReleases: AnimeType[] = [
   {
     id: 13,
     title: "Mushoku Tensei",
-    coverImage: "https://images.pexels.com/photos/5490837/pexels-photo-5490837.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    coverImage: "https://th.bing.com/th/id/OIP.Mowcp0w_g1QZNoiBNCb8ywHaLH?w=202&h=303&c=7&r=0&o=5&dpr=1.5&pid=1.7",
     type: "TV",
     year: 2024,
     rating: 4.9,
@@ -139,7 +139,7 @@ export const newReleases: AnimeType[] = [
   {
     id: 14,
     title: "Dandadan",
-    coverImage: "https://images.pexels.com/photos/5282559/pexels-photo-5282559.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    coverImage: "https://th.bing.com/th/id/OIP.MWjcEgTFihYvxECEKPRytwHaNK?w=187&h=333&c=7&r=0&o=5&dpr=1.5&pid=1.7",
     type: "TV",
     year: 2024,
     rating: 4.6,
@@ -151,7 +151,7 @@ export const popularAnime: AnimeType[] = [
   {
     id: 15,
     title: "Naruto Shippuden",
-    coverImage: "https://images.pexels.com/photos/5490959/pexels-photo-5490959.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    coverImage: "https://1.bp.blogspot.com/-3C-isqdCPnw/WGuMLVrFBVI/AAAAAAAAAFI/hQcHMeqDMuMZWDhRYeIlUWi9eDrcqbyvACLcB/s1600/naruto_shippuden.jpg",
     type: "TV",
     year: 2007,
     rating: 4.8,
@@ -159,8 +159,8 @@ export const popularAnime: AnimeType[] = [
   },
   {
     id: 16,
-    title: "Full Metal Alchemist",
-    coverImage: "https://images.pexels.com/photos/5490954/pexels-photo-5490954.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    title: "Full Metal Alchemist:Brotherhood",
+    coverImage: "https://th.bing.com/th/id/OIP.AgyUzdV-PsOEAzmsvdjOpAHaLH?w=960&h=1440&rs=1&pid=ImgDetMain",
     type: "TV",
     year: 2009,
     rating: 4.9,
@@ -169,7 +169,7 @@ export const popularAnime: AnimeType[] = [
   {
     id: 17,
     title: "Hunter X Hunter",
-    coverImage: "https://images.pexels.com/photos/6373297/pexels-photo-6373297.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    coverImage: "https://th.bing.com/th/id/OIP.i10d9giGbEIH5cgAafTtdQHaLD?pid=ImgDet&w=178&h=264&c=7&dpr=1,5",
     type: "TV",
     year: 2011,
     rating: 4.9,
@@ -178,7 +178,7 @@ export const popularAnime: AnimeType[] = [
   {
     id: 18,
     title: "Death Note",
-    coverImage: "https://images.pexels.com/photos/5490952/pexels-photo-5490952.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    coverImage: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/09/death-note.jpg",
     type: "TV",
     year: 2006,
     rating: 4.8,
@@ -187,7 +187,7 @@ export const popularAnime: AnimeType[] = [
   {
     id: 19,
     title: "One Punch Man",
-    coverImage: "https://images.pexels.com/photos/5473177/pexels-photo-5473177.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    coverImage: "https://th.bing.com/th/id/R.ded05b4defd31232a2712dda37ad36a3?rik=RkUvGdWh8dlg7g&riu=http%3a%2f%2fwww.vortexcultural.com.br%2fimages%2f2019%2f11%2fone-punch-man-poster.jpg&ehk=zhTbX8i%2bNBE%2f%2bdg0eDOLqN42mPtlxlkNyRFFUm2Oic0%3d&risl=&pid=ImgRaw&r=0",
     type: "TV",
     year: 2015,
     rating: 4.7,
